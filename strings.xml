@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MT AI ANSWER MASTER</string>
+    <string name="accessibility_service_description">读取当前屏幕中可访问的文字，并在用户开启自动操作后点击 AI 指定的可见文字控件。</string>
+</resources>
